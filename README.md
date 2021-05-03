@@ -1,5 +1,5 @@
 # downloader
- the download and recieve app with python
+ gui app for download and recieve data
 ## install prerequisites
 ```
 $ pip install PySimpleGUI
